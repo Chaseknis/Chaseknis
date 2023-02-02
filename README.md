@@ -10,7 +10,6 @@
 - 📫 How to reach me 
 **[email](chase36th@gmail.com)**
 
-- ⚡ Fun fact **I am the BATMAN**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
