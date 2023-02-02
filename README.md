@@ -23,6 +23,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chaseknis&show_icons=true&locale=en" alt="chaseknis" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chaseknis&" alt="chaseknis" /></p>
 
 
