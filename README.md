@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/chasetotheworld" target="blank"><img src="https://img.shields.io/twitter/follow/chasetotheworld?logo=twitter&style=for-the-badge" alt="chasetotheworld" /></a> </p>
 
-- 🌱 I’m currently learning **New cool stuff**
+- 🌱 I’m currently learning **Next.js and PHP and other cool stuff...**
 
 - 💬 Ask me about **Everything Tech Related**
 
